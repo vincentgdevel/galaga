@@ -1,2 +1,3 @@
-# galaga
-galaga in rust
+# Galaga
+
+Galaga done in rust
